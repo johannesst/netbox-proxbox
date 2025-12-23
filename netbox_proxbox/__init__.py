@@ -9,7 +9,7 @@ class ProxboxConfig(PluginConfig):
     author = "Emerson Felipe (@emersonfelipesp)"
     author_email = "emersonfelipe.2003@gmail.com"
     min_version = '4.2.0'
-    max_version = '4.3.9'
+    max_version = '4.99.99'
     base_url = "proxbox"
     required_settings = []
 
